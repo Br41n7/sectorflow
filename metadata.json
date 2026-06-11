@@ -1,0 +1,8 @@
+{
+  "name": "SartorialFlow - Premium Tailor Management",
+  "description": "A sophisticated management suite for bespoke tailors featuring automated bookings, client measurement tracking, and AI-powered style consultations.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
